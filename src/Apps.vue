@@ -1,4 +1,4 @@
-<script>
+<script >
 import WelcomeBox from "./components/WelcomeBox.vue";
 import CustomFetch from "./components/CustomFetch.vue";
 import AboutComposition from "./components/AboutComposition.vue";
